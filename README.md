@@ -29,7 +29,7 @@ python server.py
 ```
 
 ### 2. Клиентская часть (Userscript)
-1. Установите расширение **Tampermonkey** в Safari.
+1. Установите расширение [Userscript](https://apps.apple.com/ua/app/userscripts/id1463298887?l=ru) в Safari.
 2. Создайте новый скрипт и вставьте содержимое файла `apple_lookup.user.js`.
 3. Убедитесь, что ваш Python-сервер запущен на порту `5005`.
 
